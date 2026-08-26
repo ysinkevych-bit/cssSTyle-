@@ -14,9 +14,10 @@ body {
     width: 100%;
 }
 
-.container {
+.h2 {
     display: table-cell;
     vertical-align: middle;
+    color: red;
 }
 .content {
     display: table;
