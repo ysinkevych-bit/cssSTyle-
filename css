@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    color: red;
+}
+
+body {
+    display: table;
+    width: 100%;
+}
+
+.container {
+    display: table-cell;
+    vertical-align: middle;
+}
+.content {
+    display: table;
+    table-layout: fixed;
+    max-width: 566px;
+    border-spacing: 24px 24px;
+    margin: 0 auto;
+}
+.row {
+    display: table-row;
+}
+.left {
+    display: table-cell;
+    max-width: 266px;
+    white-space: normal;
+
+    word-wrap: break-word;
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+    word-break: normal;
+    overflow-wrap: normal;
+
+}
+.right {
+    /* 1 */
+    display: table-cell;
+    word-wrap: break-word;
+    word-break: break-all;
+}
