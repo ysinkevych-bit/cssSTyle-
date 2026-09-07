@@ -1,0 +1,3400 @@
+
+<tv generator-info-name="Simplware XMLTV Generator" generator-info-url="http://simplware.com">
+<channel id="99">
+<display-name lang="en">Channel 99</display-name>
+</channel>
+<channel id="100">
+<display-name lang="en">Channel 100</display-name>
+</channel>
+<channel id="101">
+<display-name lang="en">Channel 101</display-name>
+</channel>
+<programme start="20260907130209 +0300" stop="20260907130709 +0300" channel="99" id="82515b24-4c45-406a-8941-1c49bc4dbf46">
+<title lang="en" id="2500000">Vikings</title>
+<sub-title lang="en" id="3850000">Rites of Passage (S01E01)</sub-title>
+<sub-title-original lang="en" id="3850000">Rites of Passage (S01E01)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E01</episode-num>
+<imdb>5</imdb>
+<id-imdb>tt45724915</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+</programme>
+<programme start="20260907130709 +0300" stop="20260907131209 +0300" channel="99" id="7ff620c8-6683-44d6-bd72-1cd292683e58">
+<title lang="en" id="2500001">Vikings</title>
+<sub-title lang="en" id="3850001">Rites of Passage (S01E02)</sub-title>
+<sub-title-original lang="en" id="3850001">Rites of Passage (S01E02)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E02</episode-num>
+<imdb>2</imdb>
+<id-imdb>tt35954442</id-imdb>
+</programme>
+<programme start="20260907131209 +0300" stop="20260907131709 +0300" channel="99" id="c134d6e8-8c25-425a-9083-6046728a4821">
+<title lang="en" id="2500002">Vikings</title>
+<sub-title lang="en" id="3850002">Rites of Passage (S01E03)</sub-title>
+<sub-title-original lang="en" id="3850002">Rites of Passage (S01E03)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E03</episode-num>
+<imdb>6</imdb>
+<id-imdb>tt46985666</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+</programme>
+<programme start="20260907131709 +0300" stop="20260907132209 +0300" channel="99" id="67ae998f-d111-4c93-a593-2aaf245e66c5">
+<title lang="en" id="2500003">Vikings</title>
+<sub-title lang="en" id="3850003">Rites of Passage (S01E04)</sub-title>
+<sub-title-original lang="en" id="3850003">Rites of Passage (S01E04)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E04</episode-num>
+<imdb>8</imdb>
+<id-imdb>tt49510994</id-imdb>
+</programme>
+<programme start="20260907132209 +0300" stop="20260907132709 +0300" channel="99" id="65633ef8-93f6-4e44-a4a9-c5725ae31339">
+<title lang="en" id="2500004">Vikings</title>
+<sub-title lang="en" id="3850004">Rites of Passage (S01E05)</sub-title>
+<sub-title-original lang="en" id="3850004">Rites of Passage (S01E05)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E05</episode-num>
+<imdb>2</imdb>
+<id-imdb>tt59854753</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+</programme>
+<programme start="20260907132709 +0300" stop="20260907133209 +0300" channel="99" id="c6d12e25-ba1c-4f5d-ab34-b4d4440e8eb4">
+<title lang="en" id="2500005">Vikings</title>
+<sub-title lang="en" id="3850005">Rites of Passage (S01E06)</sub-title>
+<sub-title-original lang="en" id="3850005">Rites of Passage (S01E06)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">adult</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E06</episode-num>
+<imdb>1</imdb>
+<id-imdb>tt72195734</id-imdb>
+<censored>true</censored>
+</programme>
+<programme start="20260907133209 +0300" stop="20260907133709 +0300" channel="99" id="cadefd1b-ff60-40d0-80f7-3e0a032ec45c">
+<title lang="en" id="2500006">Vikings</title>
+<sub-title lang="en" id="3850006">Rites of Passage (S01E07)</sub-title>
+<sub-title-original lang="en" id="3850006">Rites of Passage (S01E07)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E07</episode-num>
+<imdb>6</imdb>
+<id-imdb>tt91254326</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+</programme>
+<programme start="20260907133709 +0300" stop="20260907134209 +0300" channel="99" id="d35036d0-cb74-484c-92db-38265c4bc45e">
+<title lang="en" id="2500007">Vikings</title>
+<sub-title lang="en" id="3850007">Rites of Passage (S01E08)</sub-title>
+<sub-title-original lang="en" id="3850007">Rites of Passage (S01E08)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E08</episode-num>
+<imdb>2</imdb>
+<id-imdb>tt39282077</id-imdb>
+</programme>
+<programme start="20260907134209 +0300" stop="20260907134709 +0300" channel="99" id="f8b48e2d-6939-4807-8b39-efdcf1b3a6bc">
+<title lang="en" id="2500008">Vikings</title>
+<sub-title lang="en" id="3850008">Rites of Passage (S01E09)</sub-title>
+<sub-title-original lang="en" id="3850008">Rites of Passage (S01E09)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E09</episode-num>
+<imdb>8</imdb>
+<id-imdb>tt42895732</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+</programme>
+<programme start="20260907134709 +0300" stop="20260907135209 +0300" channel="99" id="a8023836-9687-4c4e-8c1b-740cdd39fb1d">
+<title lang="en" id="2500009">Vikings</title>
+<sub-title lang="en" id="3850009">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850009">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>1</imdb>
+<id-imdb>tt73731109</id-imdb>
+</programme>
+<programme start="20260907135209 +0300" stop="20260907135709 +0300" channel="99" id="b26256f9-3ae1-4160-a6b2-1fcf78389c62">
+<title lang="en" id="2500010">Vikings</title>
+<sub-title lang="en" id="3850010">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850010">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>5</imdb>
+<id-imdb>tt52727898</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+</programme>
+<programme start="20260907135709 +0300" stop="20260907140209 +0300" channel="99" id="c08345e9-76a1-4900-be90-09ff7c6ad36e">
+<title lang="en" id="2500011">Vikings</title>
+<sub-title lang="en" id="3850011">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850011">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">adult</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>5</imdb>
+<id-imdb>tt92605178</id-imdb>
+<censored>true</censored>
+</programme>
+<programme start="20260907140209 +0300" stop="20260907140709 +0300" channel="99" id="eeeaaec0-7cb1-446f-b01d-85f094dbed39">
+<title lang="en" id="2500012">Vikings</title>
+<sub-title lang="en" id="3850012">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850012">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">adult</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>9</imdb>
+<id-imdb>tt24080593</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+<censored>true</censored>
+</programme>
+<programme start="20260907140709 +0300" stop="20260907141209 +0300" channel="99" id="e5d1aed0-58ac-4cd0-b6ae-17daf4337ebc">
+<title lang="en" id="2500013">Vikings</title>
+<sub-title lang="en" id="3850013">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850013">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>9</imdb>
+<id-imdb>tt53270034</id-imdb>
+</programme>
+<programme start="20260907141209 +0300" stop="20260907141709 +0300" channel="99" id="c752681c-57b9-40a6-88e6-d5d137eda5aa">
+<title lang="en" id="2500014">Vikings</title>
+<sub-title lang="en" id="3850014">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850014">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>4</imdb>
+<id-imdb>tt29435438</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+</programme>
+<programme start="20260907141709 +0300" stop="20260907142209 +0300" channel="99" id="82294b0c-ea3c-4135-8197-8986bd3130d6">
+<title lang="en" id="2500015">Vikings</title>
+<sub-title lang="en" id="3850015">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850015">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>7</imdb>
+<id-imdb>tt14863215</id-imdb>
+</programme>
+<programme start="20260907142209 +0300" stop="20260907142709 +0300" channel="99" id="f6b920eb-72e9-4e21-807f-47473dcdc974">
+<title lang="en" id="2500016">Vikings</title>
+<sub-title lang="en" id="3850016">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850016">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">adult</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>6</imdb>
+<id-imdb>tt72573907</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+<censored>true</censored>
+<blackout>true</blackout>
+</programme>
+<programme start="20260907142709 +0300" stop="20260907143209 +0300" channel="99" id="646f0a7a-55a8-4489-9bf9-823bbdf250be">
+<title lang="en" id="2500017">Vikings</title>
+<sub-title lang="en" id="3850017">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850017">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>9</imdb>
+<id-imdb>tt41665568</id-imdb>
+<blackout>true</blackout>
+</programme>
+<programme start="20260907143209 +0300" stop="20260907143709 +0300" channel="99" id="c72c79ec-f7b5-4172-8de5-9e0d69d09404">
+<title lang="en" id="2500018">Vikings</title>
+<sub-title lang="en" id="3850018">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850018">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>1</imdb>
+<id-imdb>tt72535317</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+<blackout>true</blackout>
+</programme>
+<programme start="20260907143709 +0300" stop="20260907144209 +0300" channel="99" id="b9e7a65e-85a6-46d7-8ef8-03f1a6fb0e24">
+<title lang="en" id="2500019">Vikings</title>
+<sub-title lang="en" id="3850019">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850019">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>1</imdb>
+<id-imdb>tt47268314</id-imdb>
+</programme>
+<programme start="20260907144209 +0300" stop="20260907144709 +0300" channel="99" id="e0c0c0ac-b2fc-4857-9247-a73059381515">
+<title lang="en" id="2500020">Vikings</title>
+<sub-title lang="en" id="3850020">Rites of Passage (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850020">Rites of Passage (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc>
+<desc-sub-title size="short" lang="en">Warrior and farmer Ragnar Lothbrok challenges his community's leader with a plan to explore and raid lands across the western sea.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/1547/vikings-1x01-rites-of-passage</url>
+<category lang="en" id="4">action</category>
+<genre lang="en" id="528">history</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">History</production>
+<year>2013</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">action</keyword>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>18</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>5</imdb>
+<id-imdb>tt47401592</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/vikings-2x3.jpg"/>
+</programme>
+<programme start="20260907130209 +0300" stop="20260907130709 +0300" channel="100" id="396d6a29-5fe0-4b71-b80b-1ce6b8ceee04">
+<title lang="en" id="2500021">Revenge</title>
+<sub-title lang="en" id="3850021">Pilot (S01E01)</sub-title>
+<sub-title-original lang="en" id="3850021">Pilot (S01E01)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E01</episode-num>
+<imdb>6</imdb>
+<id-imdb>tt81179052</id-imdb>
+</programme>
+<programme start="20260907130709 +0300" stop="20260907131209 +0300" channel="100" id="6228608d-212f-4042-9524-2c1a5c0047b9">
+<title lang="en" id="2500022">Revenge</title>
+<sub-title lang="en" id="3850022">Pilot (S01E02)</sub-title>
+<sub-title-original lang="en" id="3850022">Pilot (S01E02)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E02</episode-num>
+<imdb>7</imdb>
+<id-imdb>tt73547714</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+</programme>
+<programme start="20260907131209 +0300" stop="20260907131709 +0300" channel="100" id="9202ada7-b041-490f-bd5d-e0743cf006f5">
+<title lang="en" id="2500023">Revenge</title>
+<sub-title lang="en" id="3850023">Pilot (S01E03)</sub-title>
+<sub-title-original lang="en" id="3850023">Pilot (S01E03)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E03</episode-num>
+<imdb>6</imdb>
+<id-imdb>tt84369323</id-imdb>
+</programme>
+<programme start="20260907131709 +0300" stop="20260907132209 +0300" channel="100" id="0298c4a0-2f34-4a90-b17c-67c4e5267fcb">
+<title lang="en" id="2500024">Revenge</title>
+<sub-title lang="en" id="3850024">Pilot (S01E04)</sub-title>
+<sub-title-original lang="en" id="3850024">Pilot (S01E04)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E04</episode-num>
+<imdb>8</imdb>
+<id-imdb>tt19473771</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+</programme>
+<programme start="20260907132209 +0300" stop="20260907132709 +0300" channel="100" id="ce3107d5-2aee-4306-8df3-9ab07abe9ce5">
+<title lang="en" id="2500025">Revenge</title>
+<sub-title lang="en" id="3850025">Pilot (S01E05)</sub-title>
+<sub-title-original lang="en" id="3850025">Pilot (S01E05)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E05</episode-num>
+<imdb>4</imdb>
+<id-imdb>tt49548053</id-imdb>
+</programme>
+<programme start="20260907132709 +0300" stop="20260907133209 +0300" channel="100" id="a6b87c74-b4ee-4d9c-82f7-30a7b746e91e">
+<title lang="en" id="2500026">Revenge</title>
+<sub-title lang="en" id="3850026">Pilot (S01E06)</sub-title>
+<sub-title-original lang="en" id="3850026">Pilot (S01E06)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E06</episode-num>
+<imdb>4</imdb>
+<id-imdb>tt11367999</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+</programme>
+<programme start="20260907133209 +0300" stop="20260907133709 +0300" channel="100" id="9c7e2255-a6c0-4ae1-af69-7b3c0d664188">
+<title lang="en" id="2500027">Revenge</title>
+<sub-title lang="en" id="3850027">Pilot (S01E07)</sub-title>
+<sub-title-original lang="en" id="3850027">Pilot (S01E07)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E07</episode-num>
+<imdb>1</imdb>
+<id-imdb>tt73741845</id-imdb>
+</programme>
+<programme start="20260907133709 +0300" stop="20260907134209 +0300" channel="100" id="fc26897e-fa44-4e7a-8da8-597159f1697f">
+<title lang="en" id="2500028">Revenge</title>
+<sub-title lang="en" id="3850028">Pilot (S01E08)</sub-title>
+<sub-title-original lang="en" id="3850028">Pilot (S01E08)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E08</episode-num>
+<imdb>1</imdb>
+<id-imdb>tt51115090</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+</programme>
+<programme start="20260907134209 +0300" stop="20260907134709 +0300" channel="100" id="5b8ddbff-ac57-4143-8dd0-cd1328b99108">
+<title lang="en" id="2500029">Revenge</title>
+<sub-title lang="en" id="3850029">Pilot (S01E09)</sub-title>
+<sub-title-original lang="en" id="3850029">Pilot (S01E09)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E09</episode-num>
+<imdb>2</imdb>
+<id-imdb>tt84355621</id-imdb>
+</programme>
+<programme start="20260907134709 +0300" stop="20260907135209 +0300" channel="100" id="dee5417d-a10b-4a9c-95e5-2137a25f4c8f">
+<title lang="en" id="2500030">Revenge</title>
+<sub-title lang="en" id="3850030">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850030">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>6</imdb>
+<id-imdb>tt25890195</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+</programme>
+<programme start="20260907135209 +0300" stop="20260907135709 +0300" channel="100" id="d419d2c5-f024-4e39-8cb6-b535cdc0f6e6">
+<title lang="en" id="2500031">Revenge</title>
+<sub-title lang="en" id="3850031">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850031">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>4</imdb>
+<id-imdb>tt77059812</id-imdb>
+</programme>
+<programme start="20260907135709 +0300" stop="20260907140209 +0300" channel="100" id="302e7bad-7dc0-41fb-a5ab-b79e0cba2db6">
+<title lang="en" id="2500032">Revenge</title>
+<sub-title lang="en" id="3850032">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850032">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>4</imdb>
+<id-imdb>tt56803872</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+</programme>
+<programme start="20260907140209 +0300" stop="20260907140709 +0300" channel="100" id="9f2de45b-219c-436c-b030-511f498026ff">
+<title lang="en" id="2500033">Revenge</title>
+<sub-title lang="en" id="3850033">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850033">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="4">adult</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>8</imdb>
+<id-imdb>tt98951095</id-imdb>
+<censored>true</censored>
+<blackout>true</blackout>
+</programme>
+<programme start="20260907140709 +0300" stop="20260907141209 +0300" channel="100" id="49d7df1d-8f19-4ad5-ae2e-e65053f0b848">
+<title lang="en" id="2500034">Revenge</title>
+<sub-title lang="en" id="3850034">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850034">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>2</imdb>
+<id-imdb>tt32365068</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+<blackout>true</blackout>
+</programme>
+<programme start="20260907141209 +0300" stop="20260907141709 +0300" channel="100" id="ae9d3116-c3b8-4daa-9856-148369f442f9">
+<title lang="en" id="2500035">Revenge</title>
+<sub-title lang="en" id="3850035">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850035">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>3</imdb>
+<id-imdb>tt31420724</id-imdb>
+<blackout>true</blackout>
+</programme>
+<programme start="20260907141709 +0300" stop="20260907142209 +0300" channel="100" id="75861694-ff2a-4f75-bdc9-776ade265c68">
+<title lang="en" id="2500036">Revenge</title>
+<sub-title lang="en" id="3850036">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850036">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>8</imdb>
+<id-imdb>tt60806743</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+</programme>
+<programme start="20260907142209 +0300" stop="20260907142709 +0300" channel="100" id="4dabcf6d-04b9-42f8-adc3-05a63ee4c064">
+<title lang="en" id="2500037">Revenge</title>
+<sub-title lang="en" id="3850037">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850037">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="4">adult</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>10</imdb>
+<id-imdb>tt97761531</id-imdb>
+<censored>true</censored>
+</programme>
+<programme start="20260907142709 +0300" stop="20260907143209 +0300" channel="100" id="a32ed0f3-dad2-4983-8d9e-95bba6be91f7">
+<title lang="en" id="2500038">Revenge</title>
+<sub-title lang="en" id="3850038">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850038">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>2</imdb>
+<id-imdb>tt24680858</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+</programme>
+<programme start="20260907143209 +0300" stop="20260907143709 +0300" channel="100" id="098731c1-0da7-4bcb-98fb-68a8592efc3f">
+<title lang="en" id="2500039">Revenge</title>
+<sub-title lang="en" id="3850039">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850039">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>9</imdb>
+<id-imdb>tt34123856</id-imdb>
+</programme>
+<programme start="20260907143709 +0300" stop="20260907144209 +0300" channel="100" id="ea4701df-40db-4ba6-b130-0523b2b02a23">
+<title lang="en" id="2500040">Revenge</title>
+<sub-title lang="en" id="3850040">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850040">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>7</imdb>
+<id-imdb>tt15858744</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/revenge-2x3.jpg"/>
+</programme>
+<programme start="20260907144209 +0300" stop="20260907144709 +0300" channel="100" id="53f95b5e-0477-45a6-b28a-eeaf12c91f1f">
+<title lang="en" id="2500041">Revenge</title>
+<sub-title lang="en" id="3850041">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850041">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc>
+<desc-sub-title size="short" lang="en">Emily Thorne returns to the Hamptons under a new identity and begins a carefully planned campaign against those who destroyed her family.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/341/revenge-1x01-pilot</url>
+<category lang="en" id="8">drama</category>
+<genre lang="en" id="528">mystery</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">ABC</production>
+<year>2011</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">drama</keyword>
+<keyword lang="en">action</keyword>
+<keyword lang="en">adventure</keyword>
+<rating system="MPAA">
+<value>12</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>4</imdb>
+<id-imdb>tt63757128</id-imdb>
+</programme>
+<programme start="20260907130209 +0300" stop="20260907130709 +0300" channel="101" id="69a4c648-56c7-4994-b5b6-a2f8dbefea9e">
+<title lang="en" id="2500042">Glee</title>
+<sub-title lang="en" id="3850042">Pilot (S01E01)</sub-title>
+<sub-title-original lang="en" id="3850042">Pilot (S01E01)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E01</episode-num>
+<imdb>7</imdb>
+<id-imdb>tt55872583</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+<programme start="20260907130709 +0300" stop="20260907131209 +0300" channel="101" id="d9209250-3ea6-4d40-bd7e-df9fe902987e">
+<title lang="en" id="2500043">Glee</title>
+<sub-title lang="en" id="3850043">Pilot (S01E02)</sub-title>
+<sub-title-original lang="en" id="3850043">Pilot (S01E02)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="4">adult</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E02</episode-num>
+<imdb>6</imdb>
+<id-imdb>tt92214181</id-imdb>
+<censored>true</censored>
+</programme>
+<programme start="20260907131209 +0300" stop="20260907131709 +0300" channel="101" id="1cc702b9-f53d-429b-a183-e1a26a9873df">
+<title lang="en" id="2500044">Glee</title>
+<sub-title lang="en" id="3850044">Pilot (S01E03)</sub-title>
+<sub-title-original lang="en" id="3850044">Pilot (S01E03)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E03</episode-num>
+<imdb>7</imdb>
+<id-imdb>tt42699756</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+<programme start="20260907131709 +0300" stop="20260907132209 +0300" channel="101" id="eff2f3e4-86e6-47b3-a9ec-09712b41a681">
+<title lang="en" id="2500045">Glee</title>
+<sub-title lang="en" id="3850045">Pilot (S01E04)</sub-title>
+<sub-title-original lang="en" id="3850045">Pilot (S01E04)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E04</episode-num>
+<imdb>3</imdb>
+<id-imdb>tt43764562</id-imdb>
+</programme>
+<programme start="20260907132209 +0300" stop="20260907132709 +0300" channel="101" id="d3ad0967-c9e7-44bb-9e72-9397788d17ae">
+<title lang="en" id="2500046">Glee</title>
+<sub-title lang="en" id="3850046">Pilot (S01E05)</sub-title>
+<sub-title-original lang="en" id="3850046">Pilot (S01E05)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E05</episode-num>
+<imdb>2</imdb>
+<id-imdb>tt29493735</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+<programme start="20260907132709 +0300" stop="20260907133209 +0300" channel="101" id="7716df16-7e1a-4643-b7c0-188c89053bee">
+<title lang="en" id="2500047">Glee</title>
+<sub-title lang="en" id="3850047">Pilot (S01E06)</sub-title>
+<sub-title-original lang="en" id="3850047">Pilot (S01E06)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E06</episode-num>
+<imdb>3</imdb>
+<id-imdb>tt56611237</id-imdb>
+</programme>
+<programme start="20260907133209 +0300" stop="20260907133709 +0300" channel="101" id="96365d53-8e2f-4227-974c-68c8d51270ef">
+<title lang="en" id="2500048">Glee</title>
+<sub-title lang="en" id="3850048">Pilot (S01E07)</sub-title>
+<sub-title-original lang="en" id="3850048">Pilot (S01E07)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E07</episode-num>
+<imdb>5</imdb>
+<id-imdb>tt42620632</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+<programme start="20260907133709 +0300" stop="20260907134209 +0300" channel="101" id="498c5166-283b-42ef-9efa-576a2e288cbd">
+<title lang="en" id="2500049">Glee</title>
+<sub-title lang="en" id="3850049">Pilot (S01E08)</sub-title>
+<sub-title-original lang="en" id="3850049">Pilot (S01E08)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E08</episode-num>
+<imdb>9</imdb>
+<id-imdb>tt13179252</id-imdb>
+</programme>
+<programme start="20260907134209 +0300" stop="20260907134709 +0300" channel="101" id="5d30f7ee-db72-4e60-959e-0e9492b58fc3">
+<title lang="en" id="2500050">Glee</title>
+<sub-title lang="en" id="3850050">Pilot (S01E09)</sub-title>
+<sub-title-original lang="en" id="3850050">Pilot (S01E09)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E09</episode-num>
+<imdb>8</imdb>
+<id-imdb>tt37771672</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+<programme start="20260907134709 +0300" stop="20260907135209 +0300" channel="101" id="2faa3748-d24e-4285-aa45-151d3bb2ab92">
+<title lang="en" id="2500051">Glee</title>
+<sub-title lang="en" id="3850051">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850051">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>10</imdb>
+<id-imdb>tt75519154</id-imdb>
+</programme>
+<programme start="20260907135209 +0300" stop="20260907135709 +0300" channel="101" id="60e786b1-035f-4847-aa4f-604768a6d86f">
+<title lang="en" id="2500052">Glee</title>
+<sub-title lang="en" id="3850052">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850052">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>1</imdb>
+<id-imdb>tt15126579</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+<programme start="20260907135709 +0300" stop="20260907140209 +0300" channel="101" id="f464e72e-4847-4e42-ab96-109311df8c8d">
+<title lang="en" id="2500053">Glee</title>
+<sub-title lang="en" id="3850053">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850053">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>2</imdb>
+<id-imdb>tt56243545</id-imdb>
+</programme>
+<programme start="20260907140209 +0300" stop="20260907140709 +0300" channel="101" id="d09d3078-c506-41d0-8821-d3dcf729a62f">
+<title lang="en" id="2500054">Glee</title>
+<sub-title lang="en" id="3850054">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850054">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>8</imdb>
+<id-imdb>tt92161375</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+<programme start="20260907140709 +0300" stop="20260907141209 +0300" channel="101" id="7e4f3e71-c1dc-47f9-a54d-b8ce1a5f6a65">
+<title lang="en" id="2500055">Glee</title>
+<sub-title lang="en" id="3850055">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850055">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>10</imdb>
+<id-imdb>tt70066326</id-imdb>
+</programme>
+<programme start="20260907141209 +0300" stop="20260907141709 +0300" channel="101" id="8c2664d5-fd82-439f-b594-62255e0e177f">
+<title lang="en" id="2500056">Glee</title>
+<sub-title lang="en" id="3850056">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850056">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>1</imdb>
+<id-imdb>tt71011429</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+<programme start="20260907141709 +0300" stop="20260907142209 +0300" channel="101" id="86c8f27c-2da6-45d4-8b9f-59048e88ec55">
+<title lang="en" id="2500057">Glee</title>
+<sub-title lang="en" id="3850057">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850057">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>1</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>8</imdb>
+<id-imdb>tt73845909</id-imdb>
+</programme>
+<programme start="20260907142209 +0300" stop="20260907142709 +0300" channel="101" id="b1571cb2-bd93-4870-a927-7d35a51a92ee">
+<title lang="en" id="2500058">Glee</title>
+<sub-title lang="en" id="3850058">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850058">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>8</imdb>
+<id-imdb>tt39708615</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+<programme start="20260907142709 +0300" stop="20260907143209 +0300" channel="101" id="b8b2afe3-ac2e-4ce7-9548-44bfdd1cbe66">
+<title lang="en" id="2500059">Glee</title>
+<sub-title lang="en" id="3850059">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850059">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>5</imdb>
+<id-imdb>tt11528561</id-imdb>
+<blackout>true</blackout>
+</programme>
+<programme start="20260907143209 +0300" stop="20260907143709 +0300" channel="101" id="30624f48-ee76-463f-b517-a713dfd38781">
+<title lang="en" id="2500060">Glee</title>
+<sub-title lang="en" id="3850060">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850060">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>4</imdb>
+<id-imdb>tt97732780</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+<blackout>true</blackout>
+</programme>
+<programme start="20260907143709 +0300" stop="20260907144209 +0300" channel="101" id="bdc03e93-7719-451e-a3ac-7072d0ec9f6a">
+<title lang="en" id="2500061">Glee</title>
+<sub-title lang="en" id="3850061">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850061">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>5</imdb>
+<id-imdb>tt81244667</id-imdb>
+<blackout>true</blackout>
+</programme>
+<programme start="20260907144209 +0300" stop="20260907144709 +0300" channel="101" id="54ae46ef-941c-4d62-a603-7007056033c1">
+<title lang="en" id="2500062">Glee</title>
+<sub-title lang="en" id="3850062">Pilot (S01E10)</sub-title>
+<sub-title-original lang="en" id="3850062">Pilot (S01E10)</sub-title-original>
+<part-number/>
+<desc size="normal" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc>
+<desc-sub-title size="short" lang="en">Teacher Will Schuester rebuilds the school glee club and challenges a group of outsiders to discover their confidence and talent.</desc-sub-title>
+<url>https://www.tvmaze.com/episodes/232/glee-1x01-pilot</url>
+<category lang="en" id="12">comedy</category>
+<genre lang="en" id="528">musical</genre>
+<credits>
+<director>Robb Pratt</director>
+<actor>Declan Whaley</actor>
+<actor>Terrence Little Gardenhigh</actor>
+<producer>Craig Gerber</producer>
+<composer>Frederik Wiedmann</composer>
+<person type="director" id-type="010" id="81488" id-kinopoisk="81488" id-imdb="nm0081488">
+<name lang="en">Robb Pratt</name>
+</person>
+<person type="actor" id-type="003" id="227470" id-kinopoisk="227470" id-imdb="nm0227470">
+<name lang="en">Declan Whaley</name>
+</person>
+<person type="actor" id-type="003" id="369182" id-kinopoisk="369182" id-imdb="nm0369182">
+<name lang="en">Terrence Little Gardenhigh</name>
+</person>
+<person type="producer" id-type="026" id="165533" id-kinopoisk="165533" id-imdb="nm0165533">
+<name lang="en">Craig Gerber</name>
+</person>
+<person type="composer" id-type="011" id="131805" id-kinopoisk="131805" id-imdb="nm0131805">
+<name lang="en">Frederik Wiedmann</name>
+</person>
+</credits>
+<date>2026-09-07</date>
+<country lang="ukr" id="804">Ukraine</country>
+<production lang="en">Fox</production>
+<year>2009</year>
+<live>0</live>
+<topic lang="en" id="283">Friendship</topic>
+<topic lang="en" id="100">Adventure</topic>
+<keyword lang="en">family</keyword>
+<keyword lang="en">comedy</keyword>
+<keyword lang="en">kids</keyword>
+<rating system="MPAA">
+<value>7</value>
+</rating>
+<star-rating>
+<value>4.6/10</value>
+</star-rating>
+<episode-num system="onscreen">S01E10</episode-num>
+<imdb>4</imdb>
+<id-imdb>tt23628815</id-imdb>
+<icon type="poster" position="gorizontal" aspect-ratio="16:9" w="640" h="360" width="640" height="360" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-16x9.jpg"/>
+<icon type="poster" position="gorizontal" aspect-ratio="4:3" w="640" h="480" width="640" height="480" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-4x3.jpg"/>
+<icon type="poster" position="vertical" aspect-ratio="2:3" w="480" h="720" width="480" height="720" official="true" src="https://burton-lifetime-affordable-approach.trycloudflare.com/programme-icons/glee-2x3.jpg"/>
+</programme>
+</tv>
